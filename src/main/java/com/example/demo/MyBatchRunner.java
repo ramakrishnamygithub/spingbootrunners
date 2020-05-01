@@ -11,6 +11,7 @@ public class MyBatchRunner implements CommandLineRunner,Ordered{
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
+		System.out.println("MyBatchRunner1...");
 System.out.println("MyBatchRunner...");
 	}
 	@Override
